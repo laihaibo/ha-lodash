@@ -1,0 +1,26 @@
+{
+  "name": "hadash",
+  "version": "1.0.0",
+  "description": "The Hadash library reimplement the Lodash in another way",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laihaibo/hadash.git"
+  },
+  "keywords": [
+    "hadash",
+    "lodash"
+  ],
+  "author": "laihaibo",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/laihaibo/hadash/issues"
+  },
+  "homepage": "https://github.com/laihaibo/hadash#readme"
+}
