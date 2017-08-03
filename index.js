@@ -1,5 +1,6 @@
-const {now} = require('./date');
-const {compact} = require('./array');
-const {add} = require('./math');
+const date = require('./src/date');
+const array = require('./src/array');
+const math = require('./src/math');
+const number = require('./src/number');
 
-console.log(add(1,2));
+module.exports = Object.assign({}, date, array, math, number);
