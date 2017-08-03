@@ -1,6 +1,6 @@
 {
   "name": "hadash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Hadash library reimplement the Lodash in another way",
   "main": "index.js",
   "directories": {
